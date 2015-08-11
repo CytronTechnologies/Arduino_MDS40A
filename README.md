@@ -3,7 +3,12 @@
 Arduino sketches for MDS40A<br/><br/>
 <strong>Tutorial:</strong><br/>
 <ul>
-<li><a href="http://tutorial.cytron.com.my/2012/07/23/arduino-controlling-mds40a/" target="_blank">Arduino – Controlling MDS40A</a></li>
+<li><a href="http://tutorial.cytron.com.my/2012/07/23/arduino-controlling-mds40a/" target="_blank">Arduino – Controlling MDS40A</a>
+<ul>
+<li>Project 1 = PWM Mode</li>
+<li>Project 2 = Serial Mode</li>
+</ul>
+</li>
 </ul>
 <strong>Hardware:</strong></br>
 <ul>
